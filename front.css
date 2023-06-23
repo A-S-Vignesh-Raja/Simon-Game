@@ -1,0 +1,48 @@
+body {
+    text-align: justify;
+    background-color: #011F3F;
+  }
+
+  h1{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 3rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+  h5{
+    text-align: justify;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 1rem;
+    margin:  5%;
+    color: #FEF2BF;
+  }
+  li{
+    padding: 1%;
+  }
+
+  .container{
+    display: flex;
+    justify-content: center;
+  }
+  .play-button {
+    background-color: transparent;
+    color: #fff;
+    border-radius: 10px; 
+    border-width: 1px;
+    border-color: white;
+    /*color: black; */
+    padding: 10px 20px; 
+    text-align: center; 
+    text-decoration: none;
+    
+    font-size: 20px;
+    font-weight: 300;
+    cursor: pointer; 
+    width: 150px;
+    height: 70px;
+  }
+  .play-button:hover{
+    background-color: #FEF2BF;
+    color: black;
+  }
+  
