@@ -14,7 +14,6 @@ $(".play-button").click(function(){
 });
 
 
-
 $(".btn").on("click" , function(){
     var userChosencolor=$(this).attr("id");
     userClickedPattern.push(userChosencolor);
