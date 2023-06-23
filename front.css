@@ -2,7 +2,9 @@ body {
     text-align: justify;
     background-color: #011F3F;
   }
-
+.main{
+    text-align: center;
+  }
   h1{
     font-family: 'Press Start 2P', cursive;
     font-size: 3rem;
