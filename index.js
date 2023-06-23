@@ -13,12 +13,7 @@ $(".play-button").click(function(){
     }
 });
 
-/*$("body").click(function(){
-    if(!started){
-    nextSequence();
-    started=true;
-    }
-});*/
+
 
 $(".btn").on("click" , function(){
     var userChosencolor=$(this).attr("id");
